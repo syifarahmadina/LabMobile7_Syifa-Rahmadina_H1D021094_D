@@ -36,7 +36,7 @@ Buka proyek yang akan dikerjakan lalu buka src lalu app lalu folder dan pilih fo
 
 **4. Menambahkan Kommponen Header**
 
-Disini menggunakan komponen <ion-header>, <ion-toolbar>, dan <ion-title>. Komponen ini digunakan untuk menampilkan judul halaman yang ditempatkan di bagian paling atas dengan font dan warna yang diinginkan.
+Disini menggunakan komponen **<ion-header>, <ion-toolbar>, dan <ion-title>**. Komponen ini digunakan untuk menampilkan judul halaman yang ditempatkan di bagian paling atas dengan font dan warna yang diinginkan.
 
 Berikut Sedikit Contoh Codenya:
 
