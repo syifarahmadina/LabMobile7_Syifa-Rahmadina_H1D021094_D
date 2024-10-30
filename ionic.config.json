@@ -1,0 +1,7 @@
+{
+  "name": "tugaspt7",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
