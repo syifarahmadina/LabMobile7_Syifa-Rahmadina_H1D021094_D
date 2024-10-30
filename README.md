@@ -8,5 +8,7 @@
 **HASIL PENAMBAHAN KOMPONEN DI HALAMAN IONIC**
 
 <p align="center">
- ![Screenshot (4151)](https://github.com/user-attachments/assets/765f8266-73d2-49f5-b924-ea3633dfa245)
+  <img src= "![Screenshot (4151)](https://github.com/user-attachments/assets/4546066e-5142-45f2-b983-96e8172c202d)"
+alt="Deskripsi Gambar" width="300"/>
 </p>
+
