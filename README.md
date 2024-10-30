@@ -38,7 +38,7 @@ Buka proyek yang akan dikerjakan lalu buka src lalu app lalu folder dan pilih fo
 
 Disini menggunakan komponen <ion-header>, <ion-toolbar>, dan <ion-title>. Komponen ini digunakan untuk menampilkan judul halaman yang ditempatkan di bagian paling atas dengan font dan warna yang diinginkan.
 
-Berikut Codenya:
+Berikut Sedikit Contoh Codenya:
 
 ![image](https://github.com/user-attachments/assets/83c8f240-8d2b-4a64-b5ec-6fab235a04b4)
 
@@ -72,7 +72,7 @@ Berikut Sedikit Contoh Codenya:
 
 Disini digunakan komponen <ion-card> lalu didalamnya ada <ion-chip> yang digunakan untuk label kecil, dan <ion-card-subtitle> untuk menampilkan teks subtitle. Komponen-komponen diatas digunakan untuk menampilkan informasi profil seperti nama dan tag lainnya dengan gaya yang lebih visual dan menarik.
 
-Berikut Sedikit Codenya:
+Berikut Sedikit Contoh Codenya:
 
 <ion-card style="background-color: #ffffff; border-radius: 15px; margin: 20px;">
   
@@ -105,12 +105,12 @@ Berikut Sedikit Codenya:
 
 Disini untuk membuat pilihan tab abput, hobbies, dan fav song maka digunakan <ion-segment> lalu untuk inputannya digunakan <ion-textarea>. Komponen-komponen ini fungsinya untuk membuat tab navigasi yang mudah digunakan dan menyediakan area input untuk fans.
 
-Berikut Sedikit Codenya:
+Berikut Sedikit Contoh Codenya:
 
 <ion-segment value="about" mode="ios">
  
   <ion-segment-button value="about">
-  
+      
     <ion-label>About</ion-label>
   
   </ion-segment-button>
